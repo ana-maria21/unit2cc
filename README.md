@@ -8,7 +8,7 @@
 
 This is a project exploring the theme of creative computing
 
-It aims to gain knowladge and experience in physical computing alongside digital resources
+It aims to gain knowledge and experience in physical computing alongside digital resources
 
 *Personal experiences:*
 
@@ -16,14 +16,14 @@ It aims to gain knowladge and experience in physical computing alongside digital
 
 
 
-░░ It was a very fun experience to follow the instructions from the video and complete the tasks with a friend. As somebody that never worked with technology in that way, it was a great opportunity to learn. Honestly, from the beginning to the final step, I had *no idea* what was happening and it was a bit of a sruggle. Plus, we didn't get to light the LED light and only managed to charge a laptop... The video was not the best source for learning because most of the steps were covered by the person's fingers. What I would do the next time is be more precise about the steps and find a better explanation of each step.
+░░ It was a very fun experience to follow the instructions from the video and complete the tasks with a friend. As somebody that never worked with technology in that way, it was a great opportunity to learn. Honestly, from the beginning to the final step, I had *no idea* what was happening, and it was a bit of a stuggle. Plus, we didn't get to light the LED light and only managed to charge a laptop... The video was not the best source for learning because most of the steps were covered by the person's fingers. What I would do the next time is be more precise about the steps and find a better explanation of each step.
 
 
 ***2) Researching the topic and tips on how to fully connect the Arduino so the light turns on***
 
 
 
-░░ Our session with the GTA was my time for researching on what actually the board does and more about coding(which is something I'm interested in). I was mainly looking at the resources for the week and I decided to try the tutorial for programming the kit online. I had much more clear understanding of the concept of the kit and each component because the steps were explained in detail. It was hard since it's my first time working with technology of this type so I am quite out of my comfort zone. I am considering asking my cousin for some help because he is somebody that graduated studing IT and could teach me more about coding.
+░░ Our session with the GTA was my time for researching on what actually the board does and more about coding(which is something I'm interested in). I was mainly looking at the resources for the week and I decided to try the tutorial for programming the kit online. I had much more clear understanding of the concept of the kit and each component because the steps were explained in detail. It was hard since it's my first time working with technology of this type so I am quite out of my comfort zone. I am considering asking my cousin for some help because he is somebody that graduated studying IT and could teach me more about coding.
 
 ***3) Working with the Arduino board online***
 
@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/94173577/141490796-ac5a3efe-ce88-427f-
 
 
 
-I want to continue learning about coding and cumputing in my own time as I find these subejcts very unfamiliar and this project showed me how much I don't know yet.  
+I want to continue learning about coding and computing in my own time as I find these subjects very unfamiliar and this project showed me how much I don't know yet.  
 
 
 
